@@ -1,2 +1,2 @@
 # PowerShell
-test wpisu w temacie PowerShell
+W tym miejscu przydatne komendy i linki wiedzy o PowerShell.
